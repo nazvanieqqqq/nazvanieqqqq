@@ -3,6 +3,9 @@
 Мы предоставляем полный спектр IT-услуг: от разработки интеллектуальных AI-агентов и чат-ботов до сложных систем парсинга данных, машинного обучения и полноценной веб-разработки.
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=frizyyu&style=flat-square&color=blue" alt="" align="center"/>
+</div>
 
 ## 🛠️ Наши Услуги и Технологический Стек
 
@@ -57,6 +60,8 @@
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazvanieqqqq&theme=dracula)
 
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frizyyu&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 ## 🚀 Наши Кейсы и Проекты
