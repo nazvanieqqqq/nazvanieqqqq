@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=frizyyu&style=flat-square&color=blue" alt="" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=nazvanieqqqq&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
 ## 🛠️ Наши Услуги и Технологический Стек
@@ -61,7 +61,7 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazvanieqqqq&theme=dracula)
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frizyyu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frizyyu&theme=dark&background=000000)]
 ---
 
 ## 🚀 Наши Кейсы и Проекты
