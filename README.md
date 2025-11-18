@@ -40,7 +40,7 @@
 ## 📊 Статистика использования языков в наших проектах
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-company-name&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorChimirev&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
 
 *Статистика основана на анализе наших публичных репозиториев организации.*
 
