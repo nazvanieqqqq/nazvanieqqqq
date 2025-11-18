@@ -45,7 +45,10 @@
 *Статистика основана на анализе наших публичных репозиториев организации.*
 
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorChimirev&theme=dracula)
+
+
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazvanieqqqq&theme=dracula)
 
 ---
 
