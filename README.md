@@ -140,7 +140,7 @@
 
 ## 📫 Контакты
 
-- **Email:** team@your-company.com
+- **Email:** portspb88@gmail.com
 - **Telegram:** @portcompany
 - **Website:** coming 
 
