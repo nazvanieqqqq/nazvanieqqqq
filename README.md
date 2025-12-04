@@ -140,10 +140,10 @@
 
 ## 📫 Контакты
 
-- **Email:** portspb88@gmail.com
-- **Telegram:** @portcompany
-- **Website:** coming 
 
+- **Telegram:** @manufactureai
+- **Website:** coming 
+- +7(965)007-88-51
 ---
 
 *© 2025 ИИ Мануфактура. Все права защищены.*
